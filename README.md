@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rizwan 👋
 
-<!--
-**Rizwan-CodesHub/Rizwan-CodesHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+🔐 Exploring Cybersecurity & Forensics
+🐍 Currently learning Python
+💻 Exploring C++, Linux & Networking
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Python
+- C++
+- Git & GitHub
+- Linux
+- Computer Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build real-world projects
+- Participate in hackathons
+- Explore cybersecurity
+- Get internships
+- Keep learning and improving
+
+## 📌 Projects
+Coming soon...
